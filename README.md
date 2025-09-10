@@ -15,7 +15,6 @@
 
 ### 👨‍💻 Currently
 
-- 🔭 I’m learning advanced **React.js** concepts and exploring **CCBP 4.0 Technologies**  
 - 🌱 Always excited to explore new frameworks and tools  
 - 👯 Looking to collaborate on **MERN Stack** projects  
 - 💬 Ask me anything about **Web Development** or my tech stack  
