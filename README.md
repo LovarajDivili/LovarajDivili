@@ -1,27 +1,18 @@
-# Hi there 👋 I'm Lovaraju
+# 💫 About Me:
+# Hi there 👋 I'm Lovaraju<br><br>🚀 A passionate Full Stack Developer with **3 years of experience** working on modern web technologies and building scalable applications.<br><br>---<br><br>### 💼 Tech Stack & Skills<br><br>- **Frontend**: #React | #Redux | #React Hooks | #Context API | #Vue | #React Native | #Next.js | #JQuery | #TypeScript | #JavaScript  <br>- **Backend**: #Python | #Kore.ai | #Kore SDK  <br>- **Database**: #SQL | #MongoDB | #Planet9  <br>- **Other**: #MERN Stack | #Web Development<br><br>---<br><br>### 👨‍💻 Currently<br><br>- 🌱 Always excited to explore new frameworks and tools  <br>- 👯 Looking to collaborate on **MERN Stack** projects  <br>- 💬 Ask me anything about **Web Development** or my tech stack  <br><br>---<br><br>### 📫 Let's Connect<br><br>- 🔗 [LinkedIn](https://linkedin.com/in/lovaraju1668)  <br>- 📧 Email: lovarajudivili1668@gmail.com  <br>
 
-🚀 A passionate Full Stack Developer with **3 years of experience** working on modern web technologies and building scalable applications.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lovaraju Divili) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/edit/20910068) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lovarajudivili1668@gmail.com) 
 
-### 💼 Tech Stack & Skills
-
-- **Frontend**: #React | #Redux | #React Hooks | #Context API | #Vue | #React Native | #Next.js | #JQuery | #TypeScript | #JavaScript  
-- **Backend**: #Python | #Kore.ai | #Kore SDK  
-- **Database**: #SQL | #MongoDB | #Planet9  
-- **Other**: #MERN Stack | #Web Development
-
----
-
-### 👨‍💻 Currently
-
-- 🌱 Always excited to explore new frameworks and tools  
-- 👯 Looking to collaborate on **MERN Stack** projects  
-- 💬 Ask me anything about **Web Development** or my tech stack  
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LovarajDivili&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LovarajDivili&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LovarajDivili&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=LovarajDivili&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/lovaraju1668)  
-- 📧 Email: lovarajudivili1668@gmail.com  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
